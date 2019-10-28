@@ -1,5 +1,5 @@
 {
-  "name": "async",
+  "name": "async2",
   "description": "Higher-order functions and common patterns for asynchronous code",
   "version": "2.6.3",
   "main": "dist/async.js",
